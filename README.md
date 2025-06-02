@@ -7,7 +7,7 @@ This repository includes a wide range of digital circuits organized by type, dem
 
 ## Directory Overview
 
-.
+.    
 ├── ALU # ALU & register file modules    
 ├── Combinational circuits # Adders, comparators, muxes, encoders, etc.    
 ├── Sequential circuits # Counters, flip-flops, FSMs, shift registers    
