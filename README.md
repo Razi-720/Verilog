@@ -1,11 +1,11 @@
-# ⚙️ Verilog RTL Design Library
+# Verilog RTL Design Library
 
 Welcome to my curated Verilog RTL design library!  
 This repository includes a wide range of digital circuits organized by type, demonstrating both fundamental and advanced design techniques.
 
 ---
 
-## 📁 Directory Overview
+## Directory Overview
 
 .
 ├── ALU # ALU & register file modules
@@ -17,30 +17,30 @@ This repository includes a wide range of digital circuits organized by type, dem
 
 ---
 
-## 🔍 What You’ll Find
+## What You’ll Find
 
-### ✅ ALU & Memory Modules
+### ALU & Memory Modules
 - 8-bit and generic ALUs
 - Synchronous RAM
 - Register file with testbenches
 
-### 🧠 Combinational Circuits
+### Combinational Circuits
 - Half/Full adders (structural, dataflow, behavioral)
 - Carry Lookahead, Ripple Carry, 4-bit, 8-bit adders
 - MUX/DEMUX, encoders/decoders, comparators
 - Operators (bitwise, logical, reduction, etc.)
 
-### 🕹️ Sequential Circuits
+### Sequential Circuits
 - D Flip-Flops, Latches, S-R Flip-Flops
 - Counters (up/down/load/modulo)
 - Clock dividers and pulse generators
 - FSMs (Moore/Mealy, overlap & non-overlap)
 - Shift Registers (SISO, SIPO, PIPO, PISO)
 
-### 🧪 Function Practice
+### Function Practice
 - Examples using `function`, `task`, and modular logic
 
-### 💡 Miscellaneous
+### Miscellaneous
 - LFSRs, FIFO, pseudo-random generators
 - ROM/RAM examples (sync/async, single/dual port)
 - Basic encryption modules
